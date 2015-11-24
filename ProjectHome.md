@@ -1,0 +1,1 @@
+Um software que controla a venda de ingressos em um cinema, permitindo a criação de novas salas e sessões bem como a venda de um ingresso.
